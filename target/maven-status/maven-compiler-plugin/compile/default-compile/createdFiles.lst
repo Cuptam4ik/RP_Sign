@@ -1,0 +1,5 @@
+com\cokefenya\rpsign\command\RPCommand.class
+com\cokefenya\rpsign\RPSignPlugin.class
+com\cokefenya\rpsign\listener\RPSignListener.class
+com\cokefenya\rpsign\ResourcepackManager.class
+com\cokefenya\rpsign\ResourcepackManager$PackInfo.class

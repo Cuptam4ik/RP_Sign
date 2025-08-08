@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Maven Package",
+            "type": "shell",
+            "command": "mvn clean package",
+            "group": "build",
+            "problemMatcher": ["$javac"],
+            "detail": "Собрать плагин через Maven"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+name: RP_Sign
+main: com.cokefenya.rpsign.RPSignPlugin
+version: 1.21.8
+api-version: 1.21
+folia-supported: true
+description: "Resourcepack sign plugin compatible with Paper, Purpur, Spigot, and Folia"
+authors: ["cokefenya"]
+website: "https://github.com/cokefenya/RP_Sign"
+commands:
+  rp:
+    description: Resourcepack management
+    usage: /rp <create|delete|list|help|clear|reload|lang>
