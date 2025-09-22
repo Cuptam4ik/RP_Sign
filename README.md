@@ -26,16 +26,6 @@ It provides the `/rp` command for creating, deleting, listing, and updating reso
 
 ---
 
-### 📥 Installation
-
-1. Download the `RP_Sign.jar` file from this page.
-2. Place it into your server’s `plugins` folder (Paper/Purpur/Spigot/Folia).
-3. Restart the server.
-4. Edit `config.yml` and `packs.yml` to define your resource packs.
-5. Place a sign in the world and write the trigger text to link it to a resource pack (see **Sign Format** below).
-
----
-
 ### 🪧 Sign Format
 
 To create a resource pack sign:
