@@ -1,43 +1,12 @@
-# Конфиг для RP_Sign
-# Язык: ru или en
+# Config for RP_Sign
+# Language: ru or en
 lang: en
 
-# Глобальный ресурс-пак (для команды /rps)
-global-pack-url: "https://example.com/yourpack.zip"
-
-# Настройки сообщений
+# Message Settings
+# Use HEX colors in the format <#RRGGBB>
 messages:
-  prefix: "§b[RP_Sign] §f"
-  success-color: "§a"
-  error-color: "§c"
-  info-color: "§b"
-  warning-color: "§e"
-
-# Настройки табличек
-signs:
-  # Разрешить использование табличек
-  enabled: true
-  # Текст для подтверждения применения пака
-  confirm-message: "§aНажмите ещё раз для применения пака"
-  # Задержка подтверждения (в секундах)
-  confirm-delay: 3
-
-# Настройки безопасности
-security:
-  # Максимальная длина названия пака
-  max-pack-name-length: 32
-  # Максимальная длина описания
-  max-description-length: 128
-  # Максимальное количество паков на игрока
-  max-packs-per-player: 10
-  # Проверять валидность URL
-  validate-urls: true
-
-# Настройки производительности
-performance:
-  # Автосохранение каждые X секунд
-  auto-save-interval: 300
-  # Кэширование данных
-  enable-caching: true
-  # Максимальный размер кэша
-  max-cache-size: 1000
+  prefix: "<#00BFFF>[RP_Sign] <#FFFFFF>"
+  success-color: "<#32CD32>"
+  error-color: "<#FF4500>"
+  info-color: "<#1E90FF>"
+  warning-color: "<#FFD700>"

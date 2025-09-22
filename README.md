@@ -3,7 +3,7 @@
 
 ### 📝 Summary
 
-**RP\_Sign** is a lightweight Minecraft server plugin for **Paper**, **Purpur**, **Spigot**, and **Folia** that allows you to manage resource packs via signs.
+**RP\_Sign** is a lightweight Minecraft server plugin that allows you to manage resource packs via signs.
 It provides the `/rp` command for creating, deleting, listing, and updating resource packs directly from your server
 
 ---
@@ -44,7 +44,7 @@ To create a resource pack sign:
 
 ```
 [RP]
-medieval_pack
+Pack_name
 Click to install!
 ```
 

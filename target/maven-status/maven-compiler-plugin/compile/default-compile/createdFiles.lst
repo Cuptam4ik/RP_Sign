@@ -1,5 +1,11 @@
-com\cokefenya\rpsign\command\RPCommand.class
-com\cokefenya\rpsign\RPSignPlugin.class
-com\cokefenya\rpsign\listener\RPSignListener.class
-com\cokefenya\rpsign\ResourcepackManager.class
-com\cokefenya\rpsign\ResourcepackManager$PackInfo.class
+com\Captam4ik\rpsign\ResourcepackManager.class
+com\Captam4ik\rpsign\util\SchedulerAdapter.class
+com\Captam4ik\rpsign\util\SchedulerAdapter$Task.class
+com\Captam4ik\rpsign\command\RPCommand.class
+com\Captam4ik\rpsign\util\SchedulerAdapter$FoliaTaskWrapper.class
+com\Captam4ik\rpsign\listener\RPSignListener.class
+com\Captam4ik\rpsign\config\SettingsManager.class
+com\Captam4ik\rpsign\ResourcepackManager$PackInfo.class
+com\Captam4ik\rpsign\util\SchedulerAdapter$BukkitTaskWrapper.class
+com\Captam4ik\rpsign\util\MessageUtils.class
+com\Captam4ik\rpsign\RPSignPlugin.class
